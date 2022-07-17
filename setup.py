@@ -20,5 +20,5 @@ setup(
     author="Elisa Pfau",
     keywords="scraping - scraper",
     python_requires=">=3.6",
-    install_requires=["requests", "bs4", "pandas", "os", "python-daemon"]
+    install_requires=["requests", "bs4", "pandas", "python-daemon"]
 )
