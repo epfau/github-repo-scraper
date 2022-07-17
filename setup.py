@@ -19,7 +19,6 @@ setup(
     url="https://github.com/epfau/github-repo-scraper",
     author="Elisa Pfau",
     keywords="scraping - scraper",
-    packages=["minishift"],
     python_requires=">=3.6",
     install_requires=["requests", "bs4", "pandas", "os", "python-daemon"]
 )
